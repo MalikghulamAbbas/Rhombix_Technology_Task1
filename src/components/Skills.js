@@ -6,8 +6,7 @@ const Skills = () => {
     { name: "JavaScript", level: 90 },
     { name: "React", level: 85 },
     { name: "Node.js", level: 80 },
-    { name: "Python", level: 75 },
-    { name: "UI/UX Design", level: 70 }
+    { name: "Web Design", level: 70 }
   ];
 
   const softSkills = [

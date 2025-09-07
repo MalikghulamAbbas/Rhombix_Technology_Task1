@@ -9,23 +9,23 @@ const Background = () => {
         <div className="timeline">
           <div className="timeline-item">
             <div className="timeline-content">
-              <h3>Master of Computer Science</h3>
-              <p className="institution">Stanford University</p>
-              <p className="date">2018 - 2020</p>
+              <h3>Bachelor of Computer Science</h3>
+              <p className="institution">Riphah International University</p>
+              <p className="date">2019 - 2024</p>
             </div>
           </div>
           <div className="timeline-item">
             <div className="timeline-content">
-              <h3>AWS Certified Solutions Architect</h3>
-              <p className="institution">Amazon Web Services</p>
-              <p className="date">2020</p>
+              <h3>Mobile Application Developer</h3>
+              <p className="institution">Facebook Meta by coursera</p>
+              <p className="date">2024</p>
             </div>
           </div>
           <div className="timeline-item">
             <div className="timeline-content">
-              <h3>Google Professional Cloud Developer</h3>
-              <p className="institution">Google Cloud</p>
-              <p className="date">2021</p>
+              <h3>IBM MERN Stack Developer</h3>
+              <p className="institution">IBM</p>
+              <p className="date">2025</p>
             </div>
           </div>
         </div>

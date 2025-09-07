@@ -7,7 +7,7 @@ const Achievements = () => {
       id: 1,
       title: "Best UX Design Award",
       organization: "Web Design Association",
-      year: "2022",
+      year: "2024",
       description: "Awarded for exceptional user experience in the E-Commerce Platform project"
     },
     {
@@ -19,7 +19,7 @@ const Achievements = () => {
     },
     {
       id: 3,
-      title: "Hackathon Winner",
+      title: "Backend API Developement Excellence",
       organization: "TechCrunch Disrupt",
       year: "2020",
       description: "First place in health tech category for innovative wellness application"

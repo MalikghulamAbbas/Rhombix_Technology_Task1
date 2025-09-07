@@ -5,9 +5,9 @@ const Experience = () => {
   const experiences = [
     {
       id: 1,
-      title: "Senior Frontend Developer",
+      title: "Web Application Developer",
       company: "TechInnovate Inc.",
-      period: "2020 - Present",
+      period: "2025 - Present",
       responsibilities: [
         "Led a team of 5 developers in building responsive web applications",
         "Implemented CI/CD pipelines reducing deployment time by 40%",
@@ -16,7 +16,7 @@ const Experience = () => {
     },
     {
       id: 2,
-      title: "Full Stack Developer",
+      title: "MERN Stack Developer",
       company: "Digital Solutions LLC",
       period: "2018 - 2020",
       responsibilities: [

@@ -5,21 +5,21 @@ const Testimonials = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Williams",
-      position: "Product Manager, TechInnovate Inc.",
-      content: "Alex is an exceptional developer who consistently delivers high-quality work. His problem-solving skills and attention to detail have been invaluable to our projects."
+      name: "Shahzaib Khan",
+      position: "Product Manager, Devsinc Inc.",
+      content: "Shahzaib is an exceptional developer who consistently delivers high-quality work. His problem-solving skills and attention to detail have been invaluable to our projects."
     },
     {
       id: 2,
-      name: "Michael Chen",
-      position: "CTO, Digital Solutions LLC",
-      content: "Working with Alex was a pleasure. He combines technical expertise with creative thinking, making him a versatile asset to any development team."
+      name: "Shoaib Anwar",
+      position: "Digilearn Solutions LLC",
+      content: "Working with Shahzaib was a pleasure. He combines technical expertise with creative thinking, making him a versatile asset to any development team."
     },
     {
       id: 3,
-      name: "Jessica Rodriguez",
-      position: "UX Designer, WebCraft Studios",
-      content: "Alex's ability to translate design concepts into functional, beautiful interfaces is impressive. He's collaborative and always focused on user experience."
+      name: "Rimsha Tariq",
+      position: "WebCraft Studios",
+      content: "Shahzaib's ability to translate design concepts into functional, beautiful interfaces is impressive. He's collaborative and always focused on user experience."
     }
   ];
 

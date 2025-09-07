@@ -10,12 +10,12 @@ const Contact = () => {
           <div className="contact-info">
             <p>I'm always interested in new opportunities and interesting projects. Feel free to reach out if you'd like to work together!</p>
             <div className="contact-details">
-              <p><strong>Email:</strong> alex.johnson@example.com</p>
-              <p><strong>Phone:</strong> (555) 123-4567</p>
+              <p><strong>Email:</strong> mghulamabbas552@gmail.com</p>
+              <p><strong>Phone:</strong> +92-315-1754154 </p>
               <div className="social-links">
-                <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">GitHub</a>
-                <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer">Twitter</a>
+                <a href="https://linkedin.com/in/malikghulamabbas14714" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a href="https://github.com/MalikghulamAbbas" target="_blank" rel="noopener noreferrer">GitHub</a>
+                <a href="https://twitter.com/MalikGhulamAbbas" target="_blank" rel="noopener noreferrer">Twitter</a>
               </div>
             </div>
           </div>
