@@ -6,7 +6,7 @@ const Introduction = () => {
     <section id="introduction" className="section">
       <div className="container">
         <h1>Hello, I'm <span className="highlight">Malik Ghulam Abbas</span></h1>
-        <h2>Full Stack Developer</h2>
+        <h2>MERN Stack Developer</h2>
         <p>
           I'm a passionate developer with 5+ years of experience creating digital solutions 
           that bridge technology and user needs. My ambition is to lead innovative projects 
